@@ -8,5 +8,6 @@ namespace Wuerfelspiel
 {
     class Becher
     {
+
     }
 }
